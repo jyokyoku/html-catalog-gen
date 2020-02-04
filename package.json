@@ -1,0 +1,38 @@
+{
+  "name": "html-catalog-gen",
+  "version": "0.1.0",
+  "description": "Make a file catalog html with links.",
+  "main": "index.js",
+  "bin": {
+    "html-catalog-gen": "bin/cmd.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyokyoku/html-catalog-gen.git"
+  },
+  "keywords": [
+    "html",
+    "index",
+    "generate"
+  ],
+  "author": "jyokyoku <jyokyoku@gmail.com> (https://devlog.to)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jyokyoku/html-catalog-gen/issues"
+  },
+  "homepage": "https://github.com/jyokyoku/html-catalog-gen#readme",
+  "devDependencies": {
+    "jest": "^25.1.0",
+    "mkdirp": "^1.0.3",
+    "rimraf": "^3.0.1"
+  },
+  "dependencies": {
+    "glob": "^7.1.6"
+  },
+  "engines": {
+    "node": ">=10"
+  }
+}
