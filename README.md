@@ -1,6 +1,6 @@
 # html-catalog-gen
 [![npm version](https://badge.fury.io/js/html-catalog-gen.svg)](https://badge.fury.io/js/html-catalog-gen)
-[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Make a file catalog html with links.
 
